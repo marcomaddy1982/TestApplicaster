@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.5.0)
+  - FFGlobalAlertController (1.0.2)
+  - MBProgressHUD (0.9.2)
+  - ReachabilitySwift (3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - FFGlobalAlertController (~> 1.0.2)
+  - MBProgressHUD (~> 0.9.2)
+  - ReachabilitySwift (~> 3)
+  - SwiftyJSON (~> 3.1.4)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  FFGlobalAlertController: 40c66500ae173895085911ba19d79d045bd26742
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 40d5675dff68b7269f65e0911391a122cfa28182
+
+COCOAPODS: 1.1.1
